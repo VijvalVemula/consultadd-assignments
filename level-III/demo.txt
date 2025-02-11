@@ -1,4 +1,0 @@
-This is a line
-this is another line
-this is the third line
-this is a new line
